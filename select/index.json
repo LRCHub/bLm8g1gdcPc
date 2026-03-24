@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "House of Memories",
+  "base_artist": "Panic! At The Disco",
+  "createdAt": "2026-03-24T09:15:39.238895Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Spy In The House of Memories",
+      "artist": "Sholi",
+      "has_synced": false,
+      "path": "select/01_Spy_In_The_House_of_Memories_Sholi.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "House of Memories",
+      "artist": "Panic! At The Disco",
+      "has_synced": true,
+      "path": "select/02_House_of_Memories_Panic!_At_The_Disco.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "House Of Memories",
+      "artist": "Panic! At The Disco",
+      "has_synced": true,
+      "path": "select/03_House_Of_Memories_Panic!_At_The_Disco.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "House Of Memories (feat. Dylan Schwab)",
+      "artist": "Panic! At The Disco",
+      "has_synced": true,
+      "path": "select/04_House_Of_Memories_(feat._Dylan_Schwab)_Panic!_At_The_Disco.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "House of Memories",
+      "artist": "Merle Haggard",
+      "has_synced": false,
+      "path": "select/05_House_of_Memories_Merle_Haggard.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "House Of Memories",
+      "artist": "Panic! At The Disco",
+      "has_synced": true,
+      "path": "select/06_House_Of_Memories_Panic!_At_The_Disco.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "House of Memories",
+      "artist": "Panic! At The Disco",
+      "has_synced": true,
+      "path": "select/07_House_of_Memories_Panic!_At_The_Disco.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "House of Memories (Slowed Down Version)",
+      "artist": "Panic! At The Disco",
+      "has_synced": false,
+      "path": "select/08_House_of_Memories_(Slowed_Down_Version)_Panic!_At_The_Disco.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "House of Memories (Sped Up Version)",
+      "artist": "Panic! At The Disco",
+      "has_synced": false,
+      "path": "select/09_House_of_Memories_(Sped_Up_Version)_Panic!_At_The_Disco.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "House Of Memories - (Hardstyle)",
+      "artist": "BAKI feat. ZYZZ & Rick.staneke",
+      "has_synced": false,
+      "path": "select/10_House_Of_Memories_-_(Hardstyle)_BAKI_feat._ZYZZ_&_Rick.staneke.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "House Of Memories (Hardstyle)",
+      "artist": "Zyzz",
+      "has_synced": false,
+      "path": "select/11_House_Of_Memories_(Hardstyle)_Zyzz.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "House of Memories",
+      "artist": "Panic! At The Disco",
+      "has_synced": true,
+      "path": "select/12_House_of_Memories_Panic!_At_The_Disco.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "House of Memories",
+      "artist": "Panic! At The Disco",
+      "has_synced": true,
+      "path": "select/13_House_of_Memories_Panic!_At_The_Disco.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "House of Memories (1966)",
+      "artist": "Merle Haggard",
+      "has_synced": false,
+      "path": "select/14_House_of_Memories_(1966)_Merle_Haggard.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "House Of Memories (Sped Up Version)",
+      "artist": "Panic! At The Disco",
+      "has_synced": true,
+      "path": "select/15_House_Of_Memories_(Sped_Up_Version)_Panic!_At_The_Disco.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "House of Memories",
+      "artist": "Panic! At The Disco - Topic",
+      "has_synced": true,
+      "path": "select/16_House_of_Memories_Panic!_At_The_Disco_-_Topic.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "House of Memories",
+      "artist": "Panic! At The Disco",
+      "has_synced": true,
+      "path": "select/17_House_of_Memories_Panic!_At_The_Disco.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "House Of Memories",
+      "artist": "Panic! At The Disco",
+      "has_synced": false,
+      "path": "select/pl_01_House_Of_Memories_Panic!_At_The_Disco.txt"
+    }
+  ]
+}
