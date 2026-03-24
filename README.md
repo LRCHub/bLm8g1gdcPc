@@ -1,0 +1,84 @@
+# Panic! At The Disco – House of Memories
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:06.81] Whoa-oh-oh, oh-oh-oh
+[00:11.02] Whoa-oh-oh, oh-oh-oh
+[00:21.02] 
+[00:14.94] If you're a lover, you should know
+[00:17.44] The lonely moments just get lonelier
+[00:20.02] The longer you're in love
+[00:22.15] Than if you were alone
+[00:23.88] Memories turn into daydreams
+[00:27.53] Become a taboo
+[00:34.53] 
+[00:32.66] I don't want to be afraid
+[00:35.35] The deeper that I go
+[00:37.69] It takes my breath away
+[00:39.42] Soft hearts, electric souls
+[00:41.66] Heart to heart and eyes to eyes
+[00:45.27] Is this taboo?
+[00:52.27] 
+[00:49.55] Baby, we built this house
+[00:52.46] On memories
+[00:54.30] Take my picture now
+[00:56.67] Shake it 'til you see it
+[00:58.53] And when your fantasies
+[01:00.80] Become your legacy
+[01:02.77] Promise me a place
+[01:05.75] In your house of memories
+[01:18.25] 
+[01:08.02] Whoa-oh-oh, oh-oh-oh
+[01:12.30] Whoa-oh-oh, oh-oh-oh
+[01:22.30] 
+[01:16.25] I think of you from time to time
+[01:18.81] More than I thought I would
+[01:21.08] You were just too kind
+[01:23.31] And I was too young to know
+[01:24.86] That's all that really matters
+[01:28.88] I was a fool
+[01:34.88] 
+[01:33.29] Baby, we built this house
+[01:36.17] On memories
+[01:38.00] Take my picture now
+[01:40.23] Shake it 'til you see it
+[01:42.21] And when your fantasies
+[01:44.31] Become your legacy
+[01:46.28] Promise me a place
+[01:49.30] In your house of memories
+[02:01.80] 
+[01:51.45] Whoa-oh-oh, oh-oh-oh
+[01:55.95] Whoa-oh-oh, oh-oh-oh
+[02:05.95] 
+[02:10.05] Those thoughts of past lovers
+[02:12.85] They'll always haunt me
+[02:15.28] I wish I could believe
+[02:17.92] You'd never ruined me
+[02:20.42] Then will you remember
+[02:22.93] Me in the same way
+[02:26.38] As I remember you?
+[02:35.38] 
+[02:30.33] Baby, we built this house
+[02:33.80] On memories
+[02:36.02] Take my picture now
+[02:38.43] Shake it 'til you see it
+[02:40.48] And when your fantasies
+[02:42.67] Become your legacy
+[02:44.65] Promise me a place
+[02:53.65] 
+[02:48.99] Baby, we built this house
+[02:52.23] On memories
+[02:53.77] Take my picture now
+[02:56.16] Shake it 'til you see it
+[02:58.05] And when your fantasies
+[03:00.03] Become your legacy
+[03:02.25] Promise me a place
+[03:05.24] In your house of memories
+[03:17.74] 
+[03:07.20] Whoa-oh-oh, oh-oh-oh
+[03:11.76] Whoa-oh-oh
+[03:14.07] In your house of memories
+[03:16.31] Whoa-oh-oh, oh-oh-oh
+[03:19.78] Promise me a place
+```
